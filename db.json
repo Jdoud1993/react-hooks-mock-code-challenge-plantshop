@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Rock Juniper",
+      "image": "https://res.cloudinary.com/dyx4yhvoq/image/fetch/w_800,h_800,c_limit,f_auto,q_auto/https://www.easternleaf.com/v/vspfiles/photos/800560-03-2.jpg",
+      "price": "35.00",
+      "id": 8
     }
   ]
 }
